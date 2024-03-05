@@ -8,7 +8,7 @@
 # Requires: Windows PowerShell Module for Active Directory
 #
 # For assistance and ideas: ophsr.com.br
-# Github: 
+# Github: https://github.com/ophsr/AD-UserGroup-MoveRemove
 #
 ##################################################################################################################
 
